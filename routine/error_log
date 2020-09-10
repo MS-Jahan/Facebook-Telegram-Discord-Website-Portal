@@ -1,0 +1,72 @@
+[25-Aug-2020 16:23:59 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE), expecting ',' or ';' in /home/ztqroqtv/public_html/routine/git.php on line 6
+[25-Aug-2020 16:24:04 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE), expecting ',' or ';' in /home/ztqroqtv/public_html/routine/git.php on line 6
+[25-Aug-2020 16:24:26 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE), expecting ',' or ';' in /home/ztqroqtv/public_html/routine/git.php on line 6
+[25-Aug-2020 16:24:29 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE), expecting ',' or ';' in /home/ztqroqtv/public_html/routine/git.php on line 6
+[25-Aug-2020 16:24:31 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE), expecting ',' or ';' in /home/ztqroqtv/public_html/routine/git.php on line 6
+[25-Aug-2020 17:04:46 UTC] PHP Warning:  file_get_contents(^,overw,Programming,25-8-2020,Tuesday,9:00 pm,  হবে না
+): failed to open stream: No such file or directory in /home/ztqroqtv/public_html/routine/git.php on line 9
+[25-Aug-2020 17:10:07 UTC] PHP Warning:  file_get_contents(^,overw,Programming,25-8-2020,Tuesday,9:00 pm,  হবে না
+): failed to open stream: No such file or directory in /home/ztqroqtv/public_html/routine/git.php on line 9
+[25-Aug-2020 17:14:52 UTC] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/ztqroqtv/public_html/routine/git.php on line 37
+[25-Aug-2020 17:15:55 UTC] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/ztqroqtv/public_html/routine/git.php on line 37
+[25-Aug-2020 17:15:58 UTC] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/ztqroqtv/public_html/routine/git.php on line 37
+[25-Aug-2020 17:16:44 UTC] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/ztqroqtv/public_html/routine/git.php on line 39
+[25-Aug-2020 17:16:46 UTC] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/ztqroqtv/public_html/routine/git.php on line 39
+[25-Aug-2020 17:17:20 UTC] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/ztqroqtv/public_html/routine/git.php on line 39
+[25-Aug-2020 17:20:38 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/ztqroqtv/public_html/routine/git.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/ztqroqtv/public_html/routine/git.php on line 36
+[25-Aug-2020 17:20:40 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/ztqroqtv/public_html/routine/git.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/ztqroqtv/public_html/routine/git.php on line 36
+[25-Aug-2020 17:21:43 UTC] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/ztqroqtv/public_html/routine/git.php on line 39
+[25-Aug-2020 17:22:08 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/ztqroqtv/public_html/routine/git.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/ztqroqtv/public_html/routine/git.php on line 36
+[25-Aug-2020 17:22:15 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/ztqroqtv/public_html/routine/git.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/ztqroqtv/public_html/routine/git.php on line 36
+[25-Aug-2020 17:24:42 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/ztqroqtv/public_html/routine/git.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/ztqroqtv/public_html/routine/git.php on line 36
+[25-Aug-2020 17:25:17 UTC] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/ztqroqtv/public_html/routine/git.php on line 39
+[25-Aug-2020 17:26:00 UTC] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/ztqroqtv/public_html/routine/git.php on line 39
+[25-Aug-2020 17:26:03 UTC] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/ztqroqtv/public_html/routine/git.php on line 39
+[25-Aug-2020 17:26:41 UTC] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/ztqroqtv/public_html/routine/git.php on line 39
+[25-Aug-2020 17:27:41 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/ztqroqtv/public_html/routine/git.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/ztqroqtv/public_html/routine/git.php on line 36
+[25-Aug-2020 17:28:07 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/ztqroqtv/public_html/routine/git.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/ztqroqtv/public_html/routine/git.php on line 36
+[25-Aug-2020 17:28:47 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/ztqroqtv/public_html/routine/git.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/ztqroqtv/public_html/routine/git.php on line 36
+[25-Aug-2020 17:33:19 UTC] PHP Warning:  Illegal string offset 'content' in /home/ztqroqtv/public_html/routine/git.php on line 39
+[25-Aug-2020 17:34:02 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/ztqroqtv/public_html/routine/git.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/ztqroqtv/public_html/routine/git.php on line 39
+[25-Aug-2020 17:34:15 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/ztqroqtv/public_html/routine/git.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/ztqroqtv/public_html/routine/git.php on line 39
+[25-Aug-2020 17:34:26 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/ztqroqtv/public_html/routine/git.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/ztqroqtv/public_html/routine/git.php on line 39
+[25-Aug-2020 17:34:35 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/ztqroqtv/public_html/routine/git.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/ztqroqtv/public_html/routine/git.php on line 39
+[25-Aug-2020 17:34:59 UTC] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/ztqroqtv/public_html/routine/git.php on line 39
+[25-Aug-2020 17:35:01 UTC] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/ztqroqtv/public_html/routine/git.php on line 39
+[25-Aug-2020 17:36:31 UTC] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/ztqroqtv/public_html/routine/git.php on line 39

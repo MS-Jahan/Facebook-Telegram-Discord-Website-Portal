@@ -1,0 +1,132 @@
+[25-Aug-2020 17:54:40 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function sha() in /home/ztqroqtv/public_html/mess/index.php:391
+Stack trace:
+#0 /home/ztqroqtv/public_html/mess/index.php(532): routineSaveToGit()
+#1 {main}
+  thrown in /home/ztqroqtv/public_html/mess/index.php on line 391
+[25-Aug-2020 17:54:41 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function sha() in /home/ztqroqtv/public_html/mess/index.php:391
+Stack trace:
+#0 /home/ztqroqtv/public_html/mess/index.php(532): routineSaveToGit()
+#1 {main}
+  thrown in /home/ztqroqtv/public_html/mess/index.php on line 391
+[25-Aug-2020 17:54:42 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function sha() in /home/ztqroqtv/public_html/mess/index.php:391
+Stack trace:
+#0 /home/ztqroqtv/public_html/mess/index.php(532): routineSaveToGit()
+#1 {main}
+  thrown in /home/ztqroqtv/public_html/mess/index.php on line 391
+[25-Aug-2020 17:54:42 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function sha() in /home/ztqroqtv/public_html/mess/index.php:391
+Stack trace:
+#0 /home/ztqroqtv/public_html/mess/index.php(532): routineSaveToGit()
+#1 {main}
+  thrown in /home/ztqroqtv/public_html/mess/index.php on line 391
+[25-Aug-2020 17:54:43 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function sha() in /home/ztqroqtv/public_html/mess/index.php:391
+Stack trace:
+#0 /home/ztqroqtv/public_html/mess/index.php(532): routineSaveToGit()
+#1 {main}
+  thrown in /home/ztqroqtv/public_html/mess/index.php on line 391
+[25-Aug-2020 17:54:44 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function sha() in /home/ztqroqtv/public_html/mess/index.php:391
+Stack trace:
+#0 /home/ztqroqtv/public_html/mess/index.php(532): routineSaveToGit()
+#1 {main}
+  thrown in /home/ztqroqtv/public_html/mess/index.php on line 391
+[25-Aug-2020 17:54:45 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function sha() in /home/ztqroqtv/public_html/mess/index.php:391
+Stack trace:
+#0 /home/ztqroqtv/public_html/mess/index.php(532): routineSaveToGit()
+#1 {main}
+  thrown in /home/ztqroqtv/public_html/mess/index.php on line 391
+[25-Aug-2020 17:54:45 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function sha() in /home/ztqroqtv/public_html/mess/index.php:391
+Stack trace:
+#0 /home/ztqroqtv/public_html/mess/index.php(532): routineSaveToGit()
+#1 {main}
+  thrown in /home/ztqroqtv/public_html/mess/index.php on line 391
+[25-Aug-2020 17:54:47 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function sha() in /home/ztqroqtv/public_html/mess/index.php:391
+Stack trace:
+#0 /home/ztqroqtv/public_html/mess/index.php(532): routineSaveToGit()
+#1 {main}
+  thrown in /home/ztqroqtv/public_html/mess/index.php on line 391
+[25-Aug-2020 17:54:47 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function sha() in /home/ztqroqtv/public_html/mess/index.php:391
+Stack trace:
+#0 /home/ztqroqtv/public_html/mess/index.php(532): routineSaveToGit()
+#1 {main}
+  thrown in /home/ztqroqtv/public_html/mess/index.php on line 391
+[25-Aug-2020 17:54:51 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function sha() in /home/ztqroqtv/public_html/mess/index.php:391
+Stack trace:
+#0 /home/ztqroqtv/public_html/mess/index.php(532): routineSaveToGit()
+#1 {main}
+  thrown in /home/ztqroqtv/public_html/mess/index.php on line 391
+[25-Aug-2020 17:54:52 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function sha() in /home/ztqroqtv/public_html/mess/index.php:391
+Stack trace:
+#0 /home/ztqroqtv/public_html/mess/index.php(532): routineSaveToGit()
+#1 {main}
+  thrown in /home/ztqroqtv/public_html/mess/index.php on line 391
+[25-Aug-2020 17:55:07 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function sha() in /home/ztqroqtv/public_html/mess/index.php:391
+Stack trace:
+#0 /home/ztqroqtv/public_html/mess/index.php(532): routineSaveToGit()
+#1 {main}
+  thrown in /home/ztqroqtv/public_html/mess/index.php on line 391
+[25-Aug-2020 17:55:07 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function sha() in /home/ztqroqtv/public_html/mess/index.php:391
+Stack trace:
+#0 /home/ztqroqtv/public_html/mess/index.php(532): routineSaveToGit()
+#1 {main}
+  thrown in /home/ztqroqtv/public_html/mess/index.php on line 391
+[25-Aug-2020 17:56:31 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function sha() in /home/ztqroqtv/public_html/mess/index.php:391
+Stack trace:
+#0 /home/ztqroqtv/public_html/mess/index.php(532): routineSaveToGit()
+#1 {main}
+  thrown in /home/ztqroqtv/public_html/mess/index.php on line 391
+[25-Aug-2020 17:56:32 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function sha() in /home/ztqroqtv/public_html/mess/index.php:391
+Stack trace:
+#0 /home/ztqroqtv/public_html/mess/index.php(532): routineSaveToGit()
+#1 {main}
+  thrown in /home/ztqroqtv/public_html/mess/index.php on line 391
+[25-Aug-2020 17:57:45 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function sha() in /home/ztqroqtv/public_html/mess/index.php:391
+Stack trace:
+#0 /home/ztqroqtv/public_html/mess/index.php(532): routineSaveToGit()
+#1 {main}
+  thrown in /home/ztqroqtv/public_html/mess/index.php on line 391
+[25-Aug-2020 17:57:46 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function sha() in /home/ztqroqtv/public_html/mess/index.php:391
+Stack trace:
+#0 /home/ztqroqtv/public_html/mess/index.php(532): routineSaveToGit()
+#1 {main}
+  thrown in /home/ztqroqtv/public_html/mess/index.php on line 391
+[25-Aug-2020 17:59:08 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function sha() in /home/ztqroqtv/public_html/mess/index.php:391
+Stack trace:
+#0 /home/ztqroqtv/public_html/mess/index.php(532): routineSaveToGit()
+#1 {main}
+  thrown in /home/ztqroqtv/public_html/mess/index.php on line 391
+[25-Aug-2020 17:59:09 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function sha() in /home/ztqroqtv/public_html/mess/index.php:391
+Stack trace:
+#0 /home/ztqroqtv/public_html/mess/index.php(532): routineSaveToGit()
+#1 {main}
+  thrown in /home/ztqroqtv/public_html/mess/index.php on line 391
+[25-Aug-2020 18:00:32 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function sha() in /home/ztqroqtv/public_html/mess/index.php:391
+Stack trace:
+#0 /home/ztqroqtv/public_html/mess/index.php(532): routineSaveToGit()
+#1 {main}
+  thrown in /home/ztqroqtv/public_html/mess/index.php on line 391
+[25-Aug-2020 18:00:32 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function sha() in /home/ztqroqtv/public_html/mess/index.php:391
+Stack trace:
+#0 /home/ztqroqtv/public_html/mess/index.php(532): routineSaveToGit()
+#1 {main}
+  thrown in /home/ztqroqtv/public_html/mess/index.php on line 391
+[25-Aug-2020 18:01:53 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function sha() in /home/ztqroqtv/public_html/mess/index.php:391
+Stack trace:
+#0 /home/ztqroqtv/public_html/mess/index.php(532): routineSaveToGit()
+#1 {main}
+  thrown in /home/ztqroqtv/public_html/mess/index.php on line 391
+[25-Aug-2020 18:01:53 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function sha() in /home/ztqroqtv/public_html/mess/index.php:391
+Stack trace:
+#0 /home/ztqroqtv/public_html/mess/index.php(532): routineSaveToGit()
+#1 {main}
+  thrown in /home/ztqroqtv/public_html/mess/index.php on line 391
+[25-Aug-2020 18:03:08 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function sha() in /home/ztqroqtv/public_html/mess/index.php:391
+Stack trace:
+#0 /home/ztqroqtv/public_html/mess/index.php(532): routineSaveToGit()
+#1 {main}
+  thrown in /home/ztqroqtv/public_html/mess/index.php on line 391
+[25-Aug-2020 18:03:09 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function sha() in /home/ztqroqtv/public_html/mess/index.php:391
+Stack trace:
+#0 /home/ztqroqtv/public_html/mess/index.php(532): routineSaveToGit()
+#1 {main}
+  thrown in /home/ztqroqtv/public_html/mess/index.php on line 391
+[29-Aug-2020 22:30:34 Asia/Dhaka] PHP Warning:  Cannot assign an empty string to a string offset in /home/ztqroqtv/public_html/mess/index.php on line 584
+[29-Aug-2020 22:30:41 Asia/Dhaka] PHP Warning:  Cannot assign an empty string to a string offset in /home/ztqroqtv/public_html/mess/index.php on line 584
